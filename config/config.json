@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "drg-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging":false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "invest",
+    "password": "Invest@123",
+    "database": "drg_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

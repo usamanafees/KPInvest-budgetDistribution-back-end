@@ -1,0 +1,18 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "password": "admin"
+    },
+    {
+        "email": "john@gmail.com",
+        "password": 12345
+    },
+    {
+        "email": "test@gmail.com",
+        "password": 1234
+    },
+    {
+        "email": "jchase@drg-invest.com",
+        "password": "DRGinvestINFIN2022!"
+    }
+]
